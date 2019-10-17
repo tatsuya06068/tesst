@@ -1,0 +1,78 @@
+@CHARSET "UTF-8";
+
+body{
+	 margin: 0px;
+    padding: 0px;
+
+}
+.head{
+background-color:#6795fd ;
+height:100%;
+text-align:center;
+
+
+}
+.logo{
+	float: left;
+ margin: 2%;
+    padding: 0px;
+    background-color:#0099B5;
+
+}
+ .button{
+margin-top:2%;
+margin-left:0.5%;
+width:10%;
+height:20px;
+ display :inline-block;
+  font-size: 20pt;
+ text-align: center;
+  padding: 0.5em 1em;
+text-decoration: none;
+
+ display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  border-radius: 3px;
+  font-weight: bold;
+  color: #FFF;
+  background-image: linear-gradient(45deg, #709dff 0%, #b0c9ff 100%);
+  transition: .4s;
+}
+
+.button:hover {
+  background-image: linear-gradient(45deg, #709dff 50%, #b0c9ff 100%);m
+}
+
+#btn{
+	margin-top:2%;
+margin-left:0.5%;
+width:10%;
+height:20px;
+ display :inline-block;
+  font-size: 20pt;
+ text-align: center;
+
+text-decoration: none;
+
+
+  padding: 0.5em 1em;
+  text-decoration: none;
+  border-radius: 3px;
+  font-weight: bold;
+  color: #FFF;
+
+  transition: .4s;
+	}
+
+	.main{
+	 width: 100vw;
+  height: 100vh;
+margin : 0;
+  background: -moz-linear-gradient(65deg, rgba(255, 190, 44, 0.4), rgba(255, 44, 171, 0.7));
+  background: -webkit-linear-gradient(65deg, rgba(255, 190, 44, 0.4), rgba(255, 44, 171, 0.7));
+  background: linear-gradient(25deg, rgba(255, 190, 44, 0.4), rgba(255, 44, 171, 0.7));
+  background-size:cover;
+
+   text-align: center;
+	}

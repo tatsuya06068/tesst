@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+body{
+	 margin: 0;
+    padding: 0;
+
+}
+	.main{
+	 width: 100vw;
+  height: 120vw;
+
+
+    background: -webkit-linear-gradient( #fff1eb 0%, #ace0f9 100%);
+
+
+  background-size:cover;
+   text-align: center;
+	}
+
+p{
+
+	margin:0;
+}
+
+.b{
+	padding-top:20%;
+
+}
